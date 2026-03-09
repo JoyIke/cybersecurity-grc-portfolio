@@ -25,7 +25,7 @@ This layer handles addressing and routing of packets.
 Network Interface Layer  
 This layer handles the physical transmission of data across network hardware.
 
----
+
 
 ## Protocol Mapping
 
