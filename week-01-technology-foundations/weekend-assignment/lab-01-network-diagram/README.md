@@ -1,6 +1,7 @@
 Lab 1 — Home Network Diagram
 
 Author: Joy Townsend
+
 Date: March 7, 2026
 
 Objective
